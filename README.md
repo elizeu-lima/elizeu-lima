@@ -1,7 +1,7 @@
 
 ##  👋 Oi, Sou Elizeu Lima.
 - 👀 I’m interested in Tecnologia e toda sua evolução.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning Javascript, Typescript, Angular and React.
 - 📫 How to reach me elizeucoca@gmail.com.
 
  <div>
