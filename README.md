@@ -1,5 +1,5 @@
 
-##  👋 Oi, Sou Elizeu Lima.
+##  👋 Hi, I’m  Elizeu Lima.
 - 👀 I’m interested in Tecnologia e toda sua evolução.
 - 🌱 I’m currently learning Javascript, Typescript, Angular and React.
 - 📫 How to reach me elizeucoca@gmail.com.
@@ -20,6 +20,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  
   <img align="right" alt="Lima-anime" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  <iframe src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="480" height="469" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA">via GIPHY</a></p>
 
  </div>
 
