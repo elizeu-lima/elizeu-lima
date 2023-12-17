@@ -18,7 +18,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  
-  <img align="right" alt="Lima-anime" src="https://tenor.com/view/the-it-crowd-dedcel-doge-dogecoin-fire-gif-21249833">
+  <img align="right" alt="Lima-anime" src="https://tenor.com/mRENFOu5Zk3.gif">
  
 
  </div>
