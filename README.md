@@ -18,7 +18,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  
-  <img align="right" alt="Lima-anime" src="https://tenor.com/mRENFOu5Zk3.gif">
+  <img align="right" alt="Lima-anime" src="https://tenor.com/pt-BR/view/work-internet-computer-penguin-working-gif-10660376455808528935">
  
 
  </div>
