@@ -70,15 +70,9 @@
   </picture>
 </p>
 
-<!-- Versão GIF animada (opcional)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/elizeu-lima/elizeu-lima/output/github-contribution-grid-snake.gif" alt="Snake animation" width="100%" />
-</p>
--->
-
 ### Gráfico de Contribuições
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elizeu-lima&theme=dracula" width="100%" alt="Contributions graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elizeu-lima&theme=dracula&area=true&hide_border=true" width="100%" alt="Contributions graph" />
 </p>
 
 ---
