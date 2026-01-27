@@ -55,6 +55,7 @@
 </p>
 
 ---
+![Snake animation](https://raw.githubusercontent.com/elizeu-lima/elizeu-lima/output/github-contribution-grid-snake.svg)
 
 ### 🐍 Jogo da Cobrinha (Contribuições)
 
