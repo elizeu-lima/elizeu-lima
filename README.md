@@ -61,7 +61,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/elizeu-lima/elizeu-lima/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" />
-</p>
